@@ -14,7 +14,8 @@ analysis, and dashboard storytelling.
 - Data Visualization & Dashboard Design
 
 ## Dashboard Preview
-![Blinkit Dashboard](dashboard/dashboard_preview.png)
+<img width="1280" height="720" alt="DASHBOARD" src="https://github.com/user-attachments/assets/35bc5e24-3afb-4f5b-a3ea-8d28195c2f28" />
+
 
 ## Key Metrics
 - Total Sales: $1.20M
