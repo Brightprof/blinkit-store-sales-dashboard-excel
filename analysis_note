@@ -1,0 +1,97 @@
+# Blinkit Sales Analysis – Documentation & Insights
+
+## Business Objective
+The objective of this analysis is to evaluate Blinkit’s sales performance across
+different outlet sizes, locations, and product categories in order to identify
+revenue drivers and areas for improvement. The dashboard is designed to support
+data-driven decision-making by management.
+
+---
+
+## Dataset Description
+The dataset contains transactional and store-level sales data with the following
+key attributes:
+- Outlet Size (Small, Medium, High)
+- Outlet Location Type (Tier 1, Tier 2, Tier 3)
+- Outlet Type (Supermarket, Grocery Store)
+- Item Type (Product categories)
+- Fat Content (Low Fat, Regular)
+- Sales Amount
+- Item Ratings
+
+---
+
+## Data Cleaning & Preparation
+The following steps were carried out in Microsoft Excel:
+- Removed duplicate records to ensure data accuracy
+- Handled missing and inconsistent values
+- Standardized category names and formats
+- Created calculated fields for total sales and average sales
+- Validated numerical fields to prevent aggregation errors
+
+---
+
+## Key Performance Indicators (KPIs)
+The following KPIs were created and displayed on the dashboard:
+- Total Sales
+- Average Sales
+- Number of Items Sold
+- Average Customer Rating
+
+These KPIs provide a high-level overview of business performance.
+
+---
+
+## Analysis & Insights
+
+### 1. Sales by Outlet Size
+- Large outlets contribute the highest share of total sales.
+- Medium outlets perform better than small outlets but still trail large outlets.
+- This suggests that larger store formats generate higher customer traffic and order volume.
+
+### 2. Sales by Outlet Location
+- Tier 1 locations generate the highest revenue among all location types.
+- Tier 3 locations contribute the lowest sales, indicating lower demand or purchasing power.
+- Expansion efforts may yield better returns in Tier 1 and selected Tier 2 areas.
+
+### 3. Product Category Performance
+- Fruits and Vegetables and Snack Foods are the top-performing categories.
+- Categories such as Seafood and Breakfast generate relatively lower sales.
+- Inventory and marketing focus should prioritize high-performing categories.
+
+### 4. Fat Content Analysis
+- Regular fat content items account for a larger percentage of total sales compared to low-fat items.
+- Consumer preference appears to favor regular variants over low-fat alternatives.
+
+### 5. Outlet Type Performance
+- Supermarkets outperform grocery stores in total sales and average sales.
+- Grocery stores show higher item counts in some cases but lower average sales per item.
+- This indicates supermarkets are more effective at driving higher-value purchases.
+
+### 6. Sales Trend Over Time
+- Sales show a steady upward trend over the years.
+- A noticeable peak occurs around 2018, followed by stabilization.
+- This trend may reflect changes in market conditions or expansion phases.
+
+---
+
+## Dashboard Design Considerations
+- Interactive filters were added for Outlet Size, Location Type, and Item Type.
+- Color coding was used to enhance readability and quick interpretation.
+- Charts were selected based on clarity and business relevance rather than aesthetics.
+
+---
+
+## Business Recommendations
+- Focus expansion and marketing efforts on Tier 1 locations and large outlets.
+- Prioritize inventory planning for top-performing product categories.
+- Use customer preference data to optimize product offerings.
+- Leverage dashboard insights for continuous performance monitoring.
+
+---
+
+## Conclusion
+This project demonstrates the use of Microsoft Excel for end-to-end data analysis,
+from data cleaning and KPI creation to dashboard visualization and business insight
+generation. The dashboard enables stakeholders to quickly understand performance
+drivers and make informed decisions.
