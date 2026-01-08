@@ -9,13 +9,12 @@ analysis, and dashboard storytelling.
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Power Query
 - Excel Formulas (SUMIFS, COUNTIFS, IF)
 - Data Visualization & Dashboard Design
 
 ## Dashboard Preview
-<img width="1280" height="720" alt="DASHBOARD" src="https://github.com/user-attachments/assets/35bc5e24-3afb-4f5b-a3ea-8d28195c2f28" />
-
+[<img width="1280" height="720" alt="DASHBOARD" src="https://github.com/user-attachments/assets/35bc5e24-3afb-4f5b-a3ea-8d28195c2f28" />
+](https://github.com/Brightprof/blinkit-store-sales-dashboard-excel/blob/main/DASHBOARD.png)
 
 ## Key Metrics
 - Total Sales: $1.20M
